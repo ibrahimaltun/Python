@@ -64,15 +64,3 @@ elif seciminiz == "4":
 else:
     print("Lütfen ekrandaki işlemlerden biriniz seçiniz...!")
 
-
-
-
-
-
-
-
-
-
-
-
-
